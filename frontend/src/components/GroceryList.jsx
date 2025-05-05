@@ -1,4 +1,3 @@
-// frontend/src/components/GroceryList.jsx
 import { 
     List, 
     ListItem, 
